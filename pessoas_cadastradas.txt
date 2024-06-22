@@ -1,0 +1,13 @@
+Natan|Salvador|15|986660096
+Amanda|Recife|32|997530750
+Claudio|Manaus|62|933653678
+Fernanda|Moscou|38|590232873
+Heitor|Bonito|120|988883333
+Damiao|Jacobina|23|988776622
+Amália|Lisboa|76|1123452345
+Humberto|Salvador|41|2093922703
+Fernando|Aracaju|45|11223344
+Jose|Salvador|35|1759709186
+Golias|Filisteia|37|112233445
+Davi|Jerusalem|56|239089787
+Santiago|Madri|52|431234567
